@@ -18,16 +18,6 @@ A cryptocurrency tracker and portfolio app, built with Flutter and Dart
 - Way faster load times in portfolio. Can be done even faster if the coin values are fetched (or even prefetched) and graph is continuously built after the wallet stream emits a coin object.
 - Portfolio update look and feel
 
-### Todo
+###  Developer
+>Bagirishya Rwema Dominique
 
-- [ ] Maybe currency icons?
-- [x] Loading indicator.
-- [x] Graph out historical data for a currency
-- [ ] Make sure that the graph is actually correct. God knows what it's displaying now.
-- [ ] Error messages when timeline/order data for a currency couldn't be found.
-- [x] Scan QR-code to add wallet to wallet list
-- [x] Remove wallet from list
-- [x] Dynamic portfolio based on address (ETH + ERC20-tokens, LTC, BTC, BCH, DASH and ADA for now)
-- [x] Ability to add individual assets in addition to wallets
-- [ ] Add more information in the details view (Circulating supply, ATH, 24h hi/low)
-- [ ] Dark mode
