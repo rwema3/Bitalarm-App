@@ -1,33 +1,4 @@
-# Version 2 on the way!
-
 I'm currently rewriting the application from scratch to remove a lot of the ugly code, conform better to modern flutter best practices with regards to State Management and Routing and splitting up widgets before they become monsters.
-
-The code for the v1 can be found in the `legacy/v1` branch, whats currently available in `master` is pretty bare bones functionality wise, but should serve pretty well for a starter for other apps.
-
-## Updated design
-
-<img src="https://user-images.githubusercontent.com/207421/79063575-d8ad3e80-7ca2-11ea-82fb-f7c2eee5d340.png" width="300">
-<img src="https://user-images.githubusercontent.com/207421/79063573-d77c1180-7ca2-11ea-8bae-c0df6396327e.png" width="300">
-<img src="https://user-images.githubusercontent.com/207421/79063576-d9de6b80-7ca2-11ea-974b-878c38cb4255.png" width="300">
-
-### Todo
-
-- [x] Get prices
-- [x] Display all prices
-- [x] Sort all prices based on price, 24h gain/loss
-- [x] Add coin to favorites
-- [x] list favorites
-- [ ] Add wallets (both via pasting address or scanning QR code)
-- [ ] Remove wallet
-- [ ] Get wallet value
-- [x] Single coin view
-- [x] Single coin graph
-- [ ] wallet view
-- [ ] Cool but pointless animations
-
-# Version 1
-
-can be found in the branch `legacy/v1` for posterity.
 
 ## bitalarm
 
