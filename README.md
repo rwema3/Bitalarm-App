@@ -1,6 +1,6 @@
 I'm currently rewriting the application from scratch to remove a lot of the ugly code, conform better to modern flutter best practices with regards to State Management and Routing and splitting up widgets before they become monsters.
 
-## bitalarm
+## bitalarm App
 
 A cryptocurrency tracker and portfolio app, built with Flutter and Dart
 
