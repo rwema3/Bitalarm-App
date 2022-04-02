@@ -13,11 +13,6 @@ A cryptocurrency tracker and portfolio app, built with Flutter and Dart
 2. Clone the repo
 3. Run `flutter run` (make sure to have an emulator running).
 
-### Recent changes
-
-- Way faster load times in portfolio. Can be done even faster if the coin values are fetched (or even prefetched) and graph is continuously built after the wallet stream emits a coin object.
-- Portfolio update look and feel
-
 ###  Developer
 >Bagirishya Rwema Dominique
 
