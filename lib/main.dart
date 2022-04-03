@@ -20,7 +20,7 @@ void main() async {
   await Hive.openBox<AssetEntity>('assets');
   runApp(BitAlarm());
 }
-
+/*Main*/
 class BitAlarm extends StatefulWidget {
   @override
   State createState() => BitAlarmState();
