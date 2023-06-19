@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   nav_router: 0.0.6
-  dio: 3.0.10
+  dio: 3.0.11
   hive: 1.4.1+1
   hive_flutter: 0.3.0+2
   provider: 5.0.5+1
