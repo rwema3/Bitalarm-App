@@ -7,7 +7,7 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  nav_router: 0.0.6
+  nav_router: 2.0.6
   dio: 3.0.11
   hive: 1.4.1+1
   hive_flutter: 0.3.0+2
