@@ -20,7 +20,7 @@ dependencies:
 dev_dependencies:
   hive_generator: 0.7.0+2
   build_runner: 1.9.2
-  flutter_launcher_icons: 0.7.5
+  flutter_launcher_icons: 0.8.5
 
 flutter_icons:
   image_path: "assets/images/icon.png"
